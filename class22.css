@@ -1,0 +1,116 @@
+.header-pic{
+    height: 50px;
+}
+.banner-section{
+    background-color:#f9f9ff ;
+}
+
+.banner-img{
+    height: 400px;
+}
+
+.personal-pic{
+    height: 300px;
+}
+.forth-section{
+    background-color: #8490ff;
+}
+.text{
+	margin-left: 40px;
+}
+.text h3 {
+	color: #fff;
+	font-weight: 524;
+	margin-left: 24px;
+	margin-top: 23px;
+}
+.text p {
+	color: #fff;
+	margin-left: 9px;
+}
+
+.start-section{
+	background-color: #f9f9ff;
+	padding: 10px;
+}
+
+.box{
+	background-color: #fff;
+}
+.box span {
+	font-size: 38px;
+	background-color: #f9f9ff;
+	height: 91px;
+	width: 91px;
+	border-radius: 50%;
+	display: inline-block;
+	top: 13px;
+	margin-top: 16px;
+	line-height: 82px;
+}
+/* box-one */
+
+.box-one {
+	background-color: #fff;
+	padding: 3px 0px;
+	margin-top: 64px;
+	
+	margin-bottom: 51px;
+}
+.box-one img {
+	height: 86px;
+	margin-left: -144px;
+	top: -114px;
+	margin-bottom: -145px;
+	position: relative;
+}
+.box-one button {
+	box-shadow: 2px 5px 12px 13px #eaeaea;
+}
+
+/* contaqct */
+.contact-section{
+	background-color:#f9f9ff;
+	padding: 15px;
+}
+
+.form-section {
+	background-color: #fff;
+	padding: 39px 46px;
+}
+.form-right {
+	padding: 57px 0px;
+}
+
+.footer-section{
+	background-color: #04091e
+	;
+	bottom: 0;
+}
+.footer-section p {
+	color: white;
+	padding: 13px;
+	margin-bottom: 0;
+}
+
+/* start bsection */
+.start-section{}
+.start-text{}
+.start-text h1{}
+.start-text p{}
+
+.full-box{
+
+}
+
+.box-text{}
+.box-text h1{}
+.box-text p{}
+
+.main-box{}
+.main-box h4{
+	width: 70%;
+}
+.main-box h4 span{
+	width: 30%;
+}
